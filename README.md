@@ -1,4 +1,4 @@
-<h1 align="center">Pavel "Vee" Voloshin</h1>
+<h1 align="center">Pavel Voloshin</h1>
 <h3 align="center">FullStack software developer</h3>
 
 
